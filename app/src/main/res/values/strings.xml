@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="details">Details</string>
+    <string name="name">Hugo Lopes</string>
+    <string name="description">Sr. UI/UX Designer</string>
+    <string name="email">Email</string>
+    <string name="call">Call</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="favorite">Favorite</string>
+</resources>
